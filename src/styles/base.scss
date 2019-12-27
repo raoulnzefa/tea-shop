@@ -15,6 +15,7 @@ html {
 body {
   font-size: 1.6rem;
   line-height: 1.4;
+  color: $text-black-color;
 }
 
 h1,
@@ -29,7 +30,26 @@ button {
   padding: 0;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $title-black-color;
+}
+
 img {
   max-width: 100%;
   height: auto;
+}
+
+.container {
+  width: 1170px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.green-icon {
+  color: $main-green-color;
 }
