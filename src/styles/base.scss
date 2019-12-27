@@ -1,0 +1,35 @@
+@import "fonts";
+@import "vars";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px !important; // for better font calculate in rem.
+  font-family: $main-font;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

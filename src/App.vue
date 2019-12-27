@@ -1,6 +1,10 @@
 <template>
   <div id="app">
-    Vue App
+    <p>Vue App</p>
     <router-view/>
   </div>
 </template>
+
+<style lang="scss" module>
+@import "styles/base";
+</style>
