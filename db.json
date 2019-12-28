@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "green",
+      "image": "tea1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "herbal",
+      "image": "tea2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "loose",
+      "image": "tea3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "mate",
+      "image": "tea4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "organic",
+      "image": "tea5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "pu'Erh",
+      "image": "tea6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "black",
+      "image": "tea7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "white",
+      "image": "tea8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "green",
+      "image": "tea1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "black",
+      "image": "tea2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "orange",
+      "image": "tea3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Product Name",
+      "description": "There are many variations of passages of Lorem Ipsum",
+      "price": 12.2,
+      "category": "herbal",
+      "image": "tea4.jpg"
+    }
+  ]
+}
