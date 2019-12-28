@@ -14,9 +14,7 @@
         </div>
       </div>
       <div :class="$style.headerMain">
-        <div :class="$style.headerLogo">
-          <img src="@/assets/images/logo.png" alt="Tea Shop">
-        </div>
+        <app-logo />
         <ul :class="$style.headerMenu">
           <li>
             <router-link to="/" :exact-active-class="$style.active">Home</router-link>
@@ -101,6 +99,7 @@ export default {
   text-decoration: none;
 
   .cartPrice {
+    color: $text-black-color;
     padding-left: 12px;
     transition: all 0.4s ease-in-out;
 
@@ -117,9 +116,6 @@ export default {
   padding: 10px 0;
 }
 
-.headerLogo {
-  max-width: 140px;
-}
 
 .headerMenu {
   padding-left: 0;
