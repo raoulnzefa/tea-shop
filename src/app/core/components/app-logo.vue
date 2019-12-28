@@ -1,6 +1,6 @@
 <template>
   <div :class="$style.logo">
-    <img src="@/assets/images/logo.png" alt="Tea Shop">
+    <img src="@/assets/img/logo.png" alt="Tea Shop">
   </div>
 </template>
 

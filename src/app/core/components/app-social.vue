@@ -40,6 +40,10 @@ export default {};
 
   li {
     margin: 0 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
   }
 
   a {

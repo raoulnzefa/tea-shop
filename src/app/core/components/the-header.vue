@@ -68,6 +68,7 @@ export default {
 
 .header {
   background-color: $while-color;
+  z-index: 10;
 
   &.sticky {
     position: fixed;

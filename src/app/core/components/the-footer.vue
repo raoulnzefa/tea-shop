@@ -16,7 +16,7 @@ export default {};
 @import "@/styles/vars";
 
 .footer {
-  background-image: url('../../../assets/images/footer-bg.jpg');
+  background-image: url('../../../assets/img/footer-bg.jpg');
   background-position: center;
   background-size: cover;
   display: flex;

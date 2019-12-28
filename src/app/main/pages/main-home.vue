@@ -1,7 +1,15 @@
 <template>
-  <h1>Home</h1>
+  <div>
+    <home-carousel />
+  </div>
 </template>
 
 <script>
-export default {};
+import HomeCarousel from '@/app/main/components/home-carousel.vue';
+
+export default {
+  components: {
+    HomeCarousel,
+  },
+};
 </script>
