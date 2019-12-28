@@ -5,6 +5,7 @@ import { actions } from './actions';
 const data = {
   productsLoadingStatus: '',
   products: [],
+  categoriesLoadingStatus: '',
   categories: [],
 };
 

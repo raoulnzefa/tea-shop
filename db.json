@@ -5,7 +5,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "green",
+      "category": "Green Tea",
       "image": "tea1.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "herbal",
+      "category": "Herbal Tea",
       "image": "tea2.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "loose",
+      "category": "Loose",
       "image": "tea3.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "mate",
+      "category": "Mate",
       "image": "tea4.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "organic",
+      "category": "Organic",
       "image": "tea5.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "pu'Erh",
+      "category": "Pu'Erh",
       "image": "tea6.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "black",
+      "category": "Black Tea",
       "image": "tea7.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "white",
+      "category": "White Tea",
       "image": "tea8.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "green",
+      "category": "Green Tea",
       "image": "tea1.jpg"
     },
     {
@@ -77,7 +77,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "black",
+      "category": "Black Tea",
       "image": "tea2.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "orange",
+      "category": "Orange Tea",
       "image": "tea3.jpg"
     },
     {
@@ -93,8 +93,64 @@
       "name": "Product Name",
       "description": "There are many variations of passages of Lorem Ipsum",
       "price": 12.2,
-      "category": "herbal",
+      "category": "Herbal Tea",
       "image": "tea4.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Black Tea",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": "black-tea.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Green Tea",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": "green-tea.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Herbal Tea",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": "herbal-tea.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Orange Tea",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": "orange-tea.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Loose",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Mate",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Organic",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "Pu'Er",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "White Tea",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page",
+      "image": ""
     }
   ]
 }
